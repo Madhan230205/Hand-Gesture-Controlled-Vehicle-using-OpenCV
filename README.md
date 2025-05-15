@@ -3,9 +3,13 @@ This Hand-Gesture-Controlled-Vehicle project enables users to drive an RC car us
 
 # Tech Stack
 1.Language: Python 3.7+
+
 2.Computer Vision: OpenCV 4.x 
+
 3.Hand Tracking: MediaPipe Hands 
+
 4.Hardware Interface: PySerial for serial communication 
+
 5.Microcontroller: Arduino Uno/Nano with L293D driver (or ESP32/HC-05 for wireless)
 
 # Prerequisites
