@@ -14,9 +14,13 @@ This Hand-Gesture-Controlled-Vehicle project enables users to drive an RC car us
 
 # Prerequisites
 1.Python 3.7+ installed
+
 2.opencv-python, mediapipe, and pyserial packages (pip install opencv-python mediapipe pyserial)
+
 3.Arduino IDE with standard Serial and L293D examples
+
 4.RC car chassis with DC motors and L293D motor driver shield
+
 5.USB webcam (or Pi Camera on Raspberry Pi)
 
 # Installation
